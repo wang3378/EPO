@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MHD EPO Response Predictor",
+  "description": "A medical decision support system using Random Forest algorithms to predict EPO hypo-responsiveness in Maintenance Hemodialysis (MHD) patients.",
+  "requestFramePermissions": []
+}
